@@ -1,5 +1,5 @@
 //Program to demonstrate Private Constructor and Singleton class
-package access_modifiersdemo.thirdpackage;
+package Task_get_and_set_ex1;
 
 public class PrivateConstructorDemo {
 	public static void main(String s[]) {

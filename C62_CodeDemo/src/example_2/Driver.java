@@ -1,5 +1,5 @@
 //Program to demonstrate array operations
-package arrays.demo.code;
+package example_2;
 
 //Driver class
 public class Driver {

@@ -1,5 +1,5 @@
 //Program to demonstrate Array of Student Objects
-package arrays.demo.code;
+package example_2;
 
 public class ArrayOfObjectsDemo {
 

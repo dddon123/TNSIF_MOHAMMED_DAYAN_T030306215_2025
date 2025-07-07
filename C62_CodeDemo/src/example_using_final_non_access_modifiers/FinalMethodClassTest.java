@@ -1,5 +1,5 @@
 //Program to demonstrate final method 
-package non_access_modifiers.usingfinal;
+package example_using_final_non_access_modifiers;
 
 public class FinalMethodClassTest extends FinalMethodClass  {
 	  // Compile time error because we cannot override the final method 

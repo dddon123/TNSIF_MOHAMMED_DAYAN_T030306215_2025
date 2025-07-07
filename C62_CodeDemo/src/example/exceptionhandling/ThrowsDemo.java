@@ -1,4 +1,4 @@
-package exception.handling.demo;
+package example.exceptionhandling;
 
 public class ThrowsDemo {
 	

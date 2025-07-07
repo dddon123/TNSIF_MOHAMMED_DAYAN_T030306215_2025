@@ -1,17 +1,17 @@
 // Program to demonstrate final Variable
-package non_access_modifiers.usingfinal;
+package example_using_final_non_access_modifiers;
 
 public class FinalVariable {
 
 	// final int x; // final instance variable must be initialized
 
-	final int x = 100;
+	final int x = 21;
 
 	// Declare a static blank final variable.
 	final static int Y;
 
 	// Declare & intialize static final variable.
-	final static int Z = 10;
+	final static int Z = 22;
 
 	// instatnce method
 //	void change() {

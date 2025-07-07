@@ -1,5 +1,5 @@
 //Program to define class with array operations
-package arrays.demo.code;
+package example_2;
 
 public class ArrayOperations
 {

@@ -1,5 +1,5 @@
 //Program to demonstrate final class
-package non_access_modifiers.usingfinal;
+package example_using_final_non_access_modifiers;
 
 final class FinalClass {
 	void show() {

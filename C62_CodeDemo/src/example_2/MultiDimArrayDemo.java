@@ -1,5 +1,5 @@
 //Program to demonstrate Multidimensional Array
-package arrays.demo.code;
+package example_2;
 
 public class MultiDimArrayDemo {
 	public static void main(String[] args) {

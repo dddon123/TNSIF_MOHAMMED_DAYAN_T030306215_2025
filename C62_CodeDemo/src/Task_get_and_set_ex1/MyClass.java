@@ -1,5 +1,5 @@
 //Program to demonstrate singleton class
-package access_modifiersdemo.thirdpackage;
+package Task_get_and_set_ex1;
 
 public class MyClass {
 	private static MyClass obj=new MyClass();

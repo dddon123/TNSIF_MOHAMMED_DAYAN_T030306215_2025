@@ -1,5 +1,5 @@
 //Program to demonstrate static variable
-package non.access_modifiers.staticblok.demo;
+package example_employee_details;
 
 public class Employee {
 	// Declare instance variables.
@@ -8,7 +8,7 @@ public class Employee {
 	
 	// Declare a static variable companyName with data type String and assign value
 	// TNS which is common for all the objects.
-	static String companyName = "TNS";
+	static String companyName = "D&A";
 
 	// Declare a two-parameter constructor with parameters named n and i.
 	Employee(String name, int id) {

@@ -1,5 +1,5 @@
 //Program to demonstrate Jagged array 
-package arrays.demo.code;
+package example_2;
 
 public class JaggedArrayDemo {
 

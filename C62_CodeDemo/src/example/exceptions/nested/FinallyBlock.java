@@ -1,6 +1,6 @@
 //Program to demonstrate Finally block
 
-package exception.handling.nested.demo;
+package example.exceptions.nested;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;
